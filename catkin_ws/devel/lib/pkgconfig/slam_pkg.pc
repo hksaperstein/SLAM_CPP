@@ -1,0 +1,8 @@
+prefix=/home/hksaperstein/Documents/SLAM_CPP/catkin_ws/devel
+
+Name: slam_pkg
+Description: Description of slam_pkg
+Version: 0.0.0
+Cflags: -I/home/hksaperstein/Documents/SLAM_CPP/catkin_ws/devel/include -I/home/hksaperstein/Documents/SLAM_CPP/catkin_ws/src/slam_pkg/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

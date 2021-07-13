@@ -1,0 +1,12 @@
+<launch>
+
+    # Bring up gazebo
+    # TODO take in command line args to change map
+    #   turtlebot3 worlds
+    #   RBE3002 worlds
+    <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_empty_world.launch"/>
+
+    # Bring up Rviz
+    <include file="$(find turtlebot3_bringup)/launch/turtlebot3_model.launch"/>
+
+</launch>

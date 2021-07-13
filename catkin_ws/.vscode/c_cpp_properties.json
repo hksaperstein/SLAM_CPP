@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/hksaperstein/WPI/thesis/git/ambf/build/devel/include/**",
+        "/home/hksaperstein/WPI/thesis/git/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/hksaperstein/WPI/thesis/git/ambf/ambf_ros_modules/ambf_client/include/**",
+        "/home/hksaperstein/WPI/thesis/git/ambf/ambf_ros_modules/ambf_comm/include/**",
+        "/home/hksaperstein/WPI/thesis/git/ambf/ambf_ros_modules/dvrk_arm/include/**",
+        "/home/hksaperstein/Documents/SLAM_CPP/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/hksaperstein/Documents/SLAM_CPP/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
