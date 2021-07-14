@@ -14,6 +14,8 @@
         "/home/hksaperstein/WPI/thesis/git/ambf/ambf_ros_modules/dvrk_arm/include/**",
         "/home/hksaperstein/Documents/SLAM_CPP/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
         "/home/hksaperstein/Documents/SLAM_CPP/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/hksaperstein/Documents/SLAM_CPP/catkin_ws/src/slam_pkg/include/**",
+
         "/usr/include/**"
       ],
       "name": "ROS"
